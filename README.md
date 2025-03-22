@@ -36,7 +36,7 @@ This project demonstrates:
 
 ## Screenshots
 
-<img src="hired1.jpeg" width="300"> <img src="hired2.jpeg" width="300"> <img src="hired3" width="300">
+<img src="hired1.jpeg" width="300"> <img src="hired2.jpeg" width="300"> <img src="hired3.jpeg" width="300">
 
 
 ---
